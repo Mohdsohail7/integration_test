@@ -1,0 +1,28 @@
+{
+  "name": "integration_testing",
+  "version": "1.0.0",
+  "description": "in this project i will do integration testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohdsohail7/integration_test.git"
+  },
+  "author": "Mohd Sohal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohdsohail7/integration_test/issues"
+  },
+  "homepage": "https://github.com/Mohdsohail7/integration_test#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jest": "^29.7.0",
+    "sequelize": "^6.37.5",
+    "sqlite3": "^5.1.7",
+    "supertest": "^7.0.0"
+  }
+}
